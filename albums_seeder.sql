@@ -40,4 +40,5 @@ VALUES ('Michael Jackson', 'Thriller', 1976, 49.2, 'pop'),
        ('Nirvana', 'Nevermind', 1991, 16.7, 'grunge'),
        ('The Beatles', 'Abbey Road', 1969, 14.4, 'rock'),
        ('Various Artists', 'Grease: The Original Soundtrack from the Motion Picture', 1978, 14.4, 'rock and roll'),
+       ('Elton John', 'Goodbye Yellow Brick Road', 1973, 8.5, 'rock'),
        ('Elton John', 'Goodbye Yellow Brick Road', 1973, 8.5, 'rock');
